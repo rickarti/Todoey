@@ -30,6 +30,7 @@
                         <connections>
                             <outlet property="dataSource" destination="f6E-eu-ZWF" id="dFV-dO-BX4"/>
                             <outlet property="delegate" destination="f6E-eu-ZWF" id="3Sl-ys-HFs"/>
+                            <outlet property="prefetchDataSource" destination="f6E-eu-ZWF" id="4K1-dA-nEC"/>
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Todoey" id="ksg-xF-dZd">
